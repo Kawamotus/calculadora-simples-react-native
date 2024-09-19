@@ -21,17 +21,17 @@ Antes de rodar o projeto, certifique-se de que seu ambiente está configurado pa
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone [https://github.com/kawamot/seu-repositorio.git](https://github.com/Kawamotus/calculadora-simples-react-native)
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd seu-repositorio
+   cd calculadora-simples-react-native
    ```
 
 3. Instale as dependências:
    ```bash
-   npm install
+   npm i
    ```
 
 4. Inicie o projeto com o Expo:
@@ -51,14 +51,3 @@ Antes de rodar o projeto, certifique-se de que seu ambiente está configurado pa
 - [React Native](https://reactnative.dev/)
 - [React-Native-Material](https://github.com/material-components/material-components)
 
-## Screenshots
-
-_Adicione aqui imagens ou GIFs mostrando o funcionamento da calculadora (opcional)._
-
-## Contribuição
-
-Sinta-se à vontade para contribuir! Envie pull requests ou relate issues no repositório.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
