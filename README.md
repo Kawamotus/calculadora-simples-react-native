@@ -21,7 +21,7 @@ Antes de rodar o projeto, certifique-se de que seu ambiente está configurado pa
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/kawamot/seu-repositorio.git](https://github.com/Kawamotus/calculadora-simples-react-native)
+   git clone https://github.com/Kawamotus/calculadora-simples-react-native
    ```
 
 2. Navegue até o diretório do projeto:
